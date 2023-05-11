@@ -1,0 +1,19 @@
+name: seperate_date_picker
+description: Date Picker
+version: 0.0.1
+homepage: https://github.com/slimpotatoboy/seperate_date_picker
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
